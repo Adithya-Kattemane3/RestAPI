@@ -1,8 +1,2 @@
 INDEX VERSION 1.134+C:\Users\askad\GitDemoY\GitY\.metadata\.plugins\org.eclipse.jdt.core
 1865797976.index
-510357734.index
-3949429176.index
-317994059.index
-2119385494.index
-2736385070.index
-3705913823.index
